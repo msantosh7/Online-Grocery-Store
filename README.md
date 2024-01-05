@@ -1,5 +1,5 @@
 # Online Grocery Store
- A full stack application to order groceries from the web!
+ A MERN stack application to order groceries from the web!
 
 # Features: 
 a. User Account/Profile, Transaction Management & MySQL
@@ -19,7 +19,7 @@ g. Python-based Recommender
 
 # How to run:
 
-a. Start MongdoDB and MySQL
+a. Start MongoDB and MySQL
 
 b. Run product_schema.sql code in MySQL. This will create the Database and schema. 
 
